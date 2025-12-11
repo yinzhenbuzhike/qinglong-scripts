@@ -1,5 +1,5 @@
 # 青龙面板自用脚本合集
-链接：https://github.com/yinzhenbuzhike/qinglong-scripts.git
+ql repo [https://gitee.com/hlt1995/qlScripts.git](https://github.com/yinzhenbuzhike/qinglong-scripts.git) "" "Backup" "" "" "js|sh|py"
 
 ## 1.得物森林脚本
 
