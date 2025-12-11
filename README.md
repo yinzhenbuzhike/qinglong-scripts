@@ -1,6 +1,6 @@
 # 青龙面板自用脚本合集
-链接：https://github.com/yinzhenbuzhike/qinglong-scripts.git
-
+链接：[https://github.com/yinzhenbuzhike/qinglong-scripts.git
+](https://github.com/yinzhenbuzhike/qinglong-scripts.git)
 
 ## 1.得物森林脚本
 
