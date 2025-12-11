@@ -15,10 +15,24 @@
 
 ### 说明
 - ✅ 美化版
-- ✅ 原作者zyqinglong
+- ✅ 原作者zyqinglong（在zyqinglong的基础上修改）
 
-## 2.夸克网盘签到
+## 3.夸克网盘签到
 
 ### 说明
 - ✅ 美化版
-- ✅ 原作者Auto_Check_In
+- ✅ 原作者Auto_Check_In（在Auto_Check_In的基础上修改）
+
+## 4.顺丰速运签到
+
+### 说明
+- ✅ 修复了 ValueError: month must be in 1..12 错误
+- ✅ 原作者zyqinglong（在zyqinglong的基础上修改）
+- ✅ 每日自动签到  
+- ✅ 自动完成积分任务  
+- ✅ 自动领取优惠券
+- ✅ 自动完成丰蜜任务 
+- ✅ 自动参与活动任务
+- ✅ 多账号支持
+- ✅ 代理支持 
+- ✅ 详细日志输出
